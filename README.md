@@ -1,0 +1,2 @@
+# brangkas
+gudang data
